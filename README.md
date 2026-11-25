@@ -1,0 +1,1 @@
+# galaxy-decals-10-model-training-implementation
